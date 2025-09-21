@@ -13,30 +13,53 @@ from textblob import TextBlob
 import pandas as pd
 
 # Download required NLTK data if not present
+import ssl
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download('punkt')
+    try:
+        nltk.download('punkt', quiet=True)
+    except:
+        pass
 
 try:
     nltk.data.find('tokenizers/punkt_tab')
 except LookupError:
-    nltk.download('punkt_tab')
+    try:
+        nltk.download('punkt_tab', quiet=True)
+    except:
+        pass
 
 try:
     nltk.data.find('corpora/stopwords')
 except LookupError:
-    nltk.download('stopwords')
+    try:
+        nltk.download('stopwords', quiet=True)
+    except:
+        pass
 
 try:
     nltk.data.find('taggers/averaged_perceptron_tagger')
 except LookupError:
-    nltk.download('averaged_perceptron_tagger')
+    try:
+        nltk.download('averaged_perceptron_tagger', quiet=True)
+    except:
+        pass
 
 try:
     nltk.data.find('taggers/averaged_perceptron_tagger_eng')
 except LookupError:
-    nltk.download('averaged_perceptron_tagger_eng')
+    try:
+        nltk.download('averaged_perceptron_tagger_eng', quiet=True)
+    except:
+        pass
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
