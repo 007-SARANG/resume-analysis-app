@@ -4,7 +4,7 @@ A comprehensive web application that analyzes resumes and provides actionable fe
 
 ## 🌐 Live Demo
 
-🚀 **Try it now**: [Resume Analysis App](https://007-sarang-resume-analysis-app-main-app.streamlit.app) *(Will be live after Streamlit deployment)*
+🚀 **Try it now**: [Resume Analysis App](https://resume2analysis.streamlit.app/) *(Will be live after Streamlit deployment)*
 
 📦 **GitHub Repository**: [https://github.com/007-SARANG/resume-analysis-app](https://github.com/007-SARANG/resume-analysis-app)
 
