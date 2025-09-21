@@ -1,0 +1,34 @@
+{
+  "software_engineer": [
+    "programming", "coding", "development", "software", "algorithms", "data structures",
+    "debugging", "testing", "API", "database", "frontend", "backend", "fullstack"
+  ],
+  "data_scientist": [
+    "machine learning", "data analysis", "statistics", "python", "r", "sql",
+    "visualization", "modeling", "algorithms", "big data", "analytics", "insights"
+  ],
+  "product_manager": [
+    "product strategy", "roadmap", "stakeholder", "requirements", "agile", "scrum",
+    "user experience", "market research", "analytics", "KPIs", "A/B testing"
+  ],
+  "marketing_manager": [
+    "digital marketing", "SEO", "SEM", "social media", "content marketing",
+    "brand management", "campaign", "analytics", "ROI", "conversion", "lead generation"
+  ],
+  "business_analyst": [
+    "business analysis", "requirements gathering", "process improvement", "stakeholder",
+    "documentation", "SQL", "data analysis", "reporting", "workflow", "optimization"
+  ],
+  "devops_engineer": [
+    "CI/CD", "automation", "infrastructure", "cloud", "monitoring", "deployment",
+    "containerization", "orchestration", "scripting", "configuration management"
+  ],
+  "ui_ux_designer": [
+    "user interface", "user experience", "wireframes", "prototypes", "usability",
+    "design systems", "figma", "sketch", "adobe", "user research", "interaction design"
+  ],
+  "cybersecurity_analyst": [
+    "security", "vulnerability", "threat assessment", "penetration testing",
+    "encryption", "firewall", "incident response", "compliance", "risk management"
+  ]
+}

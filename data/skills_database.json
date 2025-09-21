@@ -1,0 +1,44 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "C++", "C#", "PHP", "Ruby", "Go", "Rust", "Swift",
+    "Kotlin", "TypeScript", "Scala", "R", "MATLAB", "Perl", "Shell", "PowerShell"
+  ],
+  "web_technologies": [
+    "HTML", "CSS", "React", "Angular", "Vue.js", "Node.js", "Express.js", "Django",
+    "Flask", "FastAPI", "Spring Boot", "ASP.NET", "Laravel", "Ruby on Rails",
+    "Bootstrap", "Tailwind CSS", "jQuery", "SASS", "LESS"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Oracle", "SQL Server", "Redis",
+    "Cassandra", "DynamoDB", "Firebase", "ElasticSearch", "InfluxDB"
+  ],
+  "cloud_platforms": [
+    "AWS", "Azure", "Google Cloud", "Heroku", "DigitalOcean", "Vercel", "Netlify",
+    "Docker", "Kubernetes", "Terraform", "CloudFormation"
+  ],
+  "data_science": [
+    "Machine Learning", "Deep Learning", "Neural Networks", "NLP", "Computer Vision",
+    "TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy", "Matplotlib",
+    "Seaborn", "Jupyter", "Apache Spark", "Hadoop", "Tableau", "Power BI"
+  ],
+  "mobile_development": [
+    "Android", "iOS", "React Native", "Flutter", "Xamarin", "Ionic", "Cordova"
+  ],
+  "devops_tools": [
+    "Git", "GitHub", "GitLab", "Jenkins", "Travis CI", "CircleCI", "Docker",
+    "Kubernetes", "Ansible", "Chef", "Puppet", "Nagios", "Prometheus"
+  ],
+  "design_tools": [
+    "Figma", "Adobe Photoshop", "Adobe Illustrator", "Sketch", "InVision",
+    "Adobe XD", "Canva", "GIMP"
+  ],
+  "project_management": [
+    "Agile", "Scrum", "Kanban", "Jira", "Trello", "Asana", "Monday.com",
+    "Microsoft Project", "Slack", "Microsoft Teams"
+  ],
+  "soft_skills": [
+    "Leadership", "Communication", "Teamwork", "Problem Solving", "Critical Thinking",
+    "Time Management", "Project Management", "Analytical Skills", "Creativity",
+    "Adaptability", "Public Speaking", "Negotiation", "Mentoring"
+  ]
+}
